@@ -1,0 +1,3 @@
+[submodule "react-redux-realworld-example-app"]
+	path = react-redux-realworld-example-app
+	url = https://github.com/brkozhikode/docker_test/react-redux-realworld-example-app
